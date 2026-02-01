@@ -10,3 +10,4 @@ jobs:
         uses: ArtemSerebrennkov/buildozer-action@v1
         with:
           workdir: .
+          
